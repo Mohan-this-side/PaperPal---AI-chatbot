@@ -2,6 +2,8 @@
 
 PaperPal is a powerful Streamlit application designed to extract and analyze text from PDF documents, leveraging the advanced capabilities of Google's Generative AI, specifically the Gemini-PRO model. This tool uses a Retrieval-Augmented Generation (RAG) framework to offer precise, context-aware answers to user queries based on the content of uploaded documents.
 
+## Give it a try: https://paperpalaichatbot.streamlit.app/
+
 ## Features
 
 - **Instant Insights**: Extracts and analyses text from uploaded PDF documents to provide instant insights.
