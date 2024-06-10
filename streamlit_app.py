@@ -92,5 +92,15 @@ def main():
                 get_vector_store(text_chunks, api_key)
                 st.success("Done")
 
+
+        # Owner's details
+        st.markdown("""
+        **Owner Details**
+
+        [Mohan Bhosale](https://www.linkedin.com/in/mohanbhosale/)
+
+        [LinkedIn](https://www.linkedin.com/in/mohanbhosale/)
+        """)
+
 if __name__ == "__main__":
     main()
