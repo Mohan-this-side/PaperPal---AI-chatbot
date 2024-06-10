@@ -95,11 +95,15 @@ def main():
 
         # Owner's details
         st.markdown("""
-        **Owner Details**
+
+
+
+
+
+    
+        **Owner Details:**
 
         [Mohan Bhosale](https://www.linkedin.com/in/mohanbhosale/)
-
-        [LinkedIn](https://www.linkedin.com/in/mohanbhosale/)
         """)
 
 if __name__ == "__main__":
